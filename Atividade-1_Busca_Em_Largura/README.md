@@ -37,4 +37,4 @@ os 26 estados brasileiros, considerando distâncias reais.
 
 ### **Como Executar**
 1. Certifique-se de ter o Python 3.8+ instalado.
-2. Instale as bibliotecas necessárias.
+2. Instale as bibliotecas necessárias, que estão mencionadas no código.
