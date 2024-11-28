@@ -22,6 +22,19 @@ os 26 estados brasileiros, considerando distâncias reais.
 
 ---
 
+## **Colaboradores Da Criação do Código**
+- Nesta atividade, o trabalho (a codificação) foi feito em equipe, com um grupo formado por 8 colegas da turma, juntos, criamos o código desta atividade, são eles:
+ - Davi Mota Campos
+ - Felipe Roza Bonetti 
+ - Guilherme Castilho Machado 
+ - Gustavo Melo do Carmo 
+ - Marcelo Prado Ribeiro 
+ - Miguel Borges de Rezende Costa 
+ - Tarick Tavares Prado Cruz
+ - Tiago de Paula Alves 
+
+--- 
+
 ## **Detalhes do Projeto**
 
 ### **Funcionalidades**
