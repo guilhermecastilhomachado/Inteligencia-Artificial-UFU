@@ -15,7 +15,7 @@ As atividades desenvolvidas estão organizadas conforme descrito abaixo:
     - Exploração de rotas entre estados brasileiros.
     - Visualização gráfica do grafo utilizando as bibliotecas `networkx` e `matplotlib`.
     - Roteamento eficiente com garantia de encontrar o menor caminho em termos de passos.
-  - **[Veja o código](Atividade-1_Busca_Em_Largura/Trabalho01.py)**.
+  - **[Veja o código](Atividade-1_Busca_Em_Largura/Atividade-1.py)**.
 
 - **[Atividade 2](Atividade-2_K-ésimo/README.md)**:  
   Aplicação de técnicas de aprendizado supervisionado com o algoritmo **K-ésimo Vizinho Mais Próximo (kNN)**, incluindo análise de um dataset de cogumelos.  
