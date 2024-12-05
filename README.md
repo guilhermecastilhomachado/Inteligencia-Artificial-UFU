@@ -9,29 +9,29 @@ da **Universidade Federal de Uberlândia (UFU)**. O objetivo principal foi aplic
 
 As atividades desenvolvidas estão organizadas conforme descrito abaixo:
 
-- **[Atividade 1](Atividade-1/README.md)**:  
+- **[Atividade 1](Atividade-1_Busca_Em_Largura/README.md)**:  
   Implementação do algoritmo de **Busca em Largura (BFS)** para exploração de grafos e solução de problemas de caminhos mínimos.  
   - **Destaques**:
     - Exploração de rotas entre estados brasileiros.
     - Visualização gráfica do grafo utilizando as bibliotecas `networkx` e `matplotlib`.
     - Roteamento eficiente com garantia de encontrar o menor caminho em termos de passos.
-  - **[Veja o código](Atividade-1/Trabalho01.py)**.
+  - **[Veja o código](Atividade-1_Busca_Em_Largura/Trabalho01.py)**.
 
-- **[Atividade 2](Atividade-2/README.md)**:  
+- **[Atividade 2](Atividade-2_K-ésimo/README.md)**:  
   Aplicação de técnicas de aprendizado supervisionado com o algoritmo **K-ésimo Vizinho Mais Próximo (kNN)**, incluindo análise de um dataset de cogumelos.  
   - **Destaques**:
     - Classificação de dados com base na similaridade dos vizinhos.
     - Análise de métricas como acurácia e matriz de confusão.
     - Visualizações interativas utilizando Jupyter Notebook.  
-  - **[Veja o código](Atividade-2/Atividade-2.ipynb)**.
+  - **[Veja o código](Atividade-2_K-ésimo/Atividade-2.ipynb)**.
 
-- **[Atividade 3](Atividade-3/README.md)**:  
+- **[Atividade 3](Atividade-3_K-means/README.md)**:  
   Agrupamento de dados usando o algoritmo **K-means**, com aplicação prática de aprendizado não supervisionado.  
   - **Destaques**:
     - Segmentação de dados em clusters baseados na proximidade com centróides.
     - Avaliação de desempenho com métricas como Soma dos Erros Quadrados (SSE).
     - Visualização gráfica dos agrupamentos gerados.  
-  - **[Veja o código](Atividade-3/Atividade-3.ipynb)**.
+  - **[Veja o código](Atividade-3_K-means/Atividade-3.ipynb)**.
 
 ---
 
