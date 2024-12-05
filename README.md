@@ -10,23 +10,10 @@ relevantes.
 As atividades desenvolvidas estão organizadas conforme descrito abaixo:
 
 - **Atividade 1**: Implementação do algoritmo de **Busca em Largura (BFS)** para exploração de grafos e solução de problemas de caminhos mínimos.  
-  - **Bibliotecas utilizadas**:  
-    - `networkx`: Manipulação de grafos.  
-    - `matplotlib`: Visualização dos grafos.  
-    - `collections (deque)`: Gerenciamento eficiente de filas.  
 
 - **Atividade 2**: Aplicação de técnicas de aprendizado supervisionado com o algoritmo **K-ésimo**, incluindo análise de um dataset de cogumelos.  
-  - **Bibliotecas utilizadas**:  
-    - `pandas`: Manipulação de dados.  
-    - `numpy`: Operações matemáticas.  
-    - `matplotlib` e `seaborn`: Visualização de dados.  
-    - `sklearn`: Pré-processamento, divisão de dados, e avaliação do modelo.
 
 - **Atividade 3**: Agrupamento de dados usando o algoritmo **K-means**, com aplicação prática de aprendizado não supervisionado.  
-  - **Bibliotecas utilizadas**:  
-    - `pandas` e `numpy`: Manipulação e processamento de dados.  
-    - `matplotlib` e `seaborn`: Visualização de clusters.  
-    - `sklearn`: Implementação do algoritmo de agrupamento e normalização.
 
 ---
 
